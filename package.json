@@ -1,10 +1,10 @@
 {
   "name": "rst",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A readable stream that produces a random alphanumeric string of a given size.",
   "main": "index.js",
   "bin": {
-    "rst": "rst.js"
+    "rst": "./bin/rst.js"
   },
   "directories": {
     "test": "test"
