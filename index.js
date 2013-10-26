@@ -2,7 +2,7 @@ var stream = require('stream')
 var util = require('util')
 
 var random = function(set) {
-	return set[~~(Math.random() * set.length)]
+  return set[~~(Math.random() * set.length)]
 }
 
 var alphanumeric = (function() {
