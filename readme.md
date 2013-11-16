@@ -1,5 +1,5 @@
 # rst
-rst is a readable stream that produces a random alphanumeric string of a given size (in kilobytes). It includes a command-line utility that will creates a file from the output, sort of like `dd`. 
+rst is a readable stream that produces a random alphanumeric string of a given size (in kilobytes). It includes a command-line utility that will create a file from the output, sort of like `dd`. 
 
 [![Build status](https://travis-ci.org/michaelrhodes/rst.png?branch=master)](https://travis-ci.org/michaelrhodes/rst)
 
